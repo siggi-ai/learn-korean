@@ -304,12 +304,16 @@ body {
     margin-left: 50px;
   }
   .text {
-    margin-top: -35px;
+    margin-top: 5px;
     font-size: 39px;
     margin-left: -1px;
   }
   .text2 {
     font-size: 30px;
+    margin-top: 60px;
+  }
+  .text3 {
+    margin-top: 60px;
   }
   body {
     
