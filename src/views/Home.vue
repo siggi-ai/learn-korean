@@ -6,9 +6,9 @@
   <div>
     <div class="container">
       
-      <p class="text">Music-Website</p>
-      <p class="text2">Explore Sounds</p>
-      <p class="text3">Experience Emotions</p>
+      <p class="text">Lerne Koreanisch!</p>
+      <p class="text2">한국어 배우기</p>
+      <p class="text3">🙂</p>
     </div>
 
     <div class="scroll-container">
@@ -48,7 +48,7 @@
             </div>
             <div class="flip-card-back">
               <table>
-                <router-link to="/a12" class="link">
+                <!-- <router-link to="/a12" class="link"> -->
                   <tr>
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coldplay</h2>
                   </tr>
@@ -56,7 +56,7 @@
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X&Y</h2>
                   </tr>
                   <br />
-                </router-link>
+                <!-- </router-link> -->
               </table>
             </div>
           </div>
@@ -73,7 +73,7 @@
             </div>
             <div class="flip-card-back">
               <table>
-                <router-link to="/a3" class="link">
+                <!-- <router-link to="/a3" class="link"> -->
                   <tr>
                     <h2>Wu-Tang Clan</h2>
                   </tr>
@@ -81,7 +81,7 @@
                     <h2>Enter the Wu-Tang (36 Chambers)</h2>
                   </tr>
                   <br />
-                </router-link>
+                <!-- </router-link> -->
               </table>
             </div>
           </div>
@@ -100,14 +100,14 @@
             </div>
             <div class="flip-card-back">
               <table class="card">
-                <router-link to="/a4" class="link">
+                <!-- <router-link to="/a4" class="link"> -->
                   <tr>
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;Avril Lavigne</h2>
                   </tr>
                   <tr>
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;Love Sux</h2>
                   </tr>
-                </router-link>
+                <!-- </router-link> -->
               </table>
             </div>
           </div>
@@ -124,7 +124,7 @@
             </div>
             <div class="flip-card-back">
               <table>
-                <router-link to="/a5" class="link">
+                <!-- <router-link to="/a5" class="link"> -->
                   <tr>
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sonic Youth</h2>
                   </tr>
@@ -132,7 +132,7 @@
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diRty</h2>
                   </tr>
                   <br />
-                </router-link>
+                <!-- </router-link> -->
               </table>
             </div>
           </div>
@@ -149,7 +149,7 @@
             </div>
             <div class="flip-card-back">
               <table>
-                <router-link to="/a6" class="link">
+                <!-- <router-link to="/a6" class="link"> -->
                   <tr>
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fugees</h2>
                   </tr>
@@ -157,7 +157,7 @@
                     <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Score</h2>
                   </tr>
                   <br />
-                </router-link>
+                <!-- </router-link> -->
               </table>
             </div>
           </div>
@@ -211,7 +211,7 @@ body {
   font-size: 56px;
   width: 100%;
   margin-top: -43px;
-  margin-left: -8px;
+  margin-left: 124px;
   border-radius: 12px;
 }
 .text2 {
