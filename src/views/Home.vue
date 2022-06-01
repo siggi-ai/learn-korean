@@ -313,7 +313,7 @@ body {
     margin-top: 60px;
   }
   .text3 {
-    margin-top: 60px;
+    margin-top: 110px;
   }
   body {
     
