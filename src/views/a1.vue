@@ -4,12 +4,9 @@
     rel="stylesheet"
   />
   <div>
-      <p>Shooting Rubberbands at the Stars is the debut album by the American
-    alternative rock band Edie Brickell & New Bohemians, released in 1988. The
-    album went 2× platinum in the United States. "What I Am" was the lead single
-    and big hit from the album.</p>
+      <p>Sing along!</p>
   </div>
-  <iframe width="520" height="300" src="https://www.youtube.com/embed/tDl3bdE3YQA">
+  <iframe width="520" height="300" src="https://www.youtube.com/embed/YNqJUkbS7dY">
 </iframe>
 </template>
 <script>
