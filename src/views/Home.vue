@@ -26,10 +26,10 @@
               <table class="card">
                 <router-link to="/a1" class="link">
                   <tr>
-                    <h2>Edie Brickell & New Bohemians</h2>
+                    <h2>[a], wie V a ter</h2>
                   </tr>
                   <tr>
-                    <h2>Shooting Rubberbands at the Stars</h2>
+                    <h2>wie V[a]ter</h2>
                   </tr>
                 </router-link>
               </table>
@@ -50,10 +50,10 @@
               <table>
                 <!-- <router-link to="/a12" class="link"> -->
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coldplay</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eo]</h2>
                   </tr>
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X&Y</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wie S o nne</h2>
                   </tr>
                   <br />
                 <!-- </router-link> -->
@@ -75,10 +75,10 @@
               <table>
                 <!-- <router-link to="/a3" class="link"> -->
                   <tr>
-                    <h2>Wu-Tang Clan</h2>
+                    <h2>[o]</h2>
                   </tr>
                   <tr>
-                    <h2>Enter the Wu-Tang (36 Chambers)</h2>
+                    <h2>wie in oben</h2>
                   </tr>
                   <br />
                 <!-- </router-link> -->
@@ -102,10 +102,10 @@
               <table class="card">
                 <!-- <router-link to="/a4" class="link"> -->
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;Avril Lavigne</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;[u]</h2>
                   </tr>
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;Love Sux</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;wie in "gut"</h2>
                   </tr>
                 <!-- </router-link> -->
               </table>
@@ -126,10 +126,10 @@
               <table>
                 <!-- <router-link to="/a5" class="link"> -->
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sonic Youth</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eu]</h2>
                   </tr>
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diRty</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wie im englischen "tak e n"</h2>
                   </tr>
                   <br />
                 <!-- </router-link> -->
@@ -151,10 +151,10 @@
               <table>
                 <!-- <router-link to="/a6" class="link"> -->
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fugees</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[i]</h2>
                   </tr>
                   <tr>
-                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Score</h2>
+                    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wie in "Idee"</h2>
                   </tr>
                   <br />
                 <!-- </router-link> -->
